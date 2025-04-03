@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubsouvick7&label=Profile%20views&color=0e75b6&style=flat" alt="githubsouvick7" /> </p>
 
-- 🌱 I’m currently learning **React-Node.js**
+- 🌱 I’m currently learning **System Design**
 
 - 📫 How to reach me **hellosouvickk@gmail.com**
 
